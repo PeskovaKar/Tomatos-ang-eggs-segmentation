@@ -1,0 +1,8 @@
+path: /Users/peskovakar/Documents/ММП_3курс/прак_весна/ори/Обучение/ори1/core/dataset
+train: images/train
+val: images/val
+
+names:
+  0: quail_egg
+  1: yellow_tomato
+  2: red_tomato
